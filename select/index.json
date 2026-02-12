@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "まるで映画みたく下らない。",
+  "base_artist": "芥田レンリ",
+  "createdAt": "2026-02-12T13:16:36.331872Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "まるで映画みたく下らない。",
+      "artist": "芥田レンリ",
+      "has_synced": false,
+      "path": "select/pl_01_まるで映画みたく下らない。_芥田レンリ.txt"
+    }
+  ]
+}
